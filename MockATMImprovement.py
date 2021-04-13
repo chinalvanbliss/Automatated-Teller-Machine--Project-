@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Automated Teller Machine (ATM) Simulation Project II
 
 
@@ -406,4 +405,3 @@ def logout():
 
 # Initializes ATM operation.
 init()
->>>>>>> Stashed changes
